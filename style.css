@@ -1,0 +1,35 @@
+body
+{
+	margin: 0;
+	background: black;
+	color: white;
+}
+.header
+{
+	font-family: DejaVu Sans Light;
+	padding: 3% 3% 3% 3%;
+}
+.header h1
+{
+	text-align: left;
+	font-size: 48px;
+	line-height: 8px;
+}
+.header p
+{
+	text-align: left;
+}
+.content
+{
+	padding: 0% 3% 3% 3%;
+	font-family: consolas;
+}
+.content ul
+{
+	list
+}
+.content a
+{
+	color: white;
+	text-decoration-color: red;
+}
