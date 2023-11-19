@@ -372,7 +372,7 @@ loopme.com, 11591, RESELLER, 6c8d5f95897a5a3b
 freewheel.tv, 1137745, RESELLER
 smartadserver.com, 4564, RESELLER, 060d053dcf45cbf3
 video.unrulymedia.com, 8373427519576873959, RESELLER
-opera.com, pub8625217480640, , 55a0c5fd61378de3
+opera.com, pub8625217480640, DIRECT, 55a0c5fd61378de3
 improvedigital.com, 2273, RESELLER
 onetag.com, 7d9af0b85b5070e, RESELLER
 pubmatic.com, 162239, RESELLER, 5d62403b186f2ace
