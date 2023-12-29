@@ -2131,3 +2131,27 @@ se7en.es, 212459, RESELLER, 064bc410192443d8
 start.io, smt, RESELLER
 vidoomy.com, 4350252, RESELLER
 webeyemob.com, 70107, RESELLER
+adform.com, 3037, RESELLER, 9f5210a2f0999e32
+appnexus.com, 12622, RESELLER, f5ab79cb980f11d1
+bold-win.com, 160, RESELLER, 71746737d0bab951
+consumable.com, 2001446, RESELLER, aefcd3d2f45b5070
+contextweb.com, 562964, RESELLER, 89ff185a4c4e857c
+contextweb.com, 563065, RESELLER, 89ff185a4c4e857c
+contextweb.com, 563125, RESELLER, 89ff185a4c4e857c
+conversantmedia.com, 42094, RESELLER, 03113cd04947736d
+dauup.com, 34101, RESELLER
+dauup.com, 34102, RESELLER
+disqus.com, 626, RESELLER
+freewheel.tv, 1568906, RESELLER, 74e8e47458f74754
+freewheel.tv, 1568907, RESELLER, 74e8e47458f74754
+freewheel.tv, 1601349, RESELLER, 74e8e47458f74754
+freewheel.tv, 1601388, RESELLER, 74e8e47458f74754
+my-cast.tv, 9861, RESELLER
+outbrain.com, 00595a29fe0f0efa37cd675959d6128c78, RESELLER
+saharmedia.net, 1683397, RESELLER
+smaato.com, 1100055204, RESELLER, 07bcf65f187117b4
+smartadserver.com, 4695, RESELLER, 060d053dcf45cbf3
+smartivi.ai, 3561, RESELLER
+themediagrid.com, xyioa3, RESELLER, 35d5010d7789b49d
+videoheroes.tv, 212432, RESELLER, 064bc410192443d8
+webeyemob.com, 80056, RESELLER
