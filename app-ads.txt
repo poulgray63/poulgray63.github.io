@@ -2211,3 +2211,48 @@ loopme.com, 11683, RESELLER, 6c8d5f95897a5a3b
 pubmatic.com, 163754, RESELLER, 5d62403b186f2ace
 rixengine.com, 36330, RESELLER
 ucfunnel.com, par-47bdb68d72764e2afed767ed47dedda4, RESELLER
+adsbea.com, 17, RESELLER
+yandex.com, 37982190, RESELLER
+yandex.com, 98384845, RESELLER
+adsyield.com, 1233, RESELLER
+kidoz.net, 19692013, RESELLER, a109366414b7335e
+liftoff.io, 7f6945815e6, RESELLER, c107d686becd2d77
+rubiconproject.com, 26184, RESELLER, 0bfd66d529a55807
+toponad.com, 165535463cfb70, RESELLER, 1d49fe424a1a456d
+yandex.com, 40427798, RESELLER
+appnexus.com, 15769, RESELLER, f5ab79cb980f11d1
+goldbach-germany.de, connekt, RESELLER
+smartyads.com, 300045, RESELLER, fd2bde0ff2e62c5d
+telaria.com, 9l6ha-9w3wc, RESELLER, 1a4e959a1b50034a
+tremorhub.com, 9l6ha-9w3wc, RESELLER, 1a4e959a1b50034a
+video.unrulymedia.com, 645663965, RESELLER
+xandr.com, 15769, RESELLER, f5ab79cb980f11d1
+onetag.com, 82e44d118b79600, RESELLER
+adiiix.com, 3de5db9, RESELLER
+bematterfull.com, 111399861, RESELLER
+bold-win.com, 148, RESELLER, 71746737d0bab951
+castify.ai, 1279123, RESELLER
+fromthetop.io, 65529, RESELLER
+onlinemediasolutions.com, 29556, RESELLER
+orangeclickmedia.com, c-1034, RESELLER
+rubiconproject.com, 26168, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26192, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 322585001, RESELLER
+rhebus.works, 1500765024, RESELLER
+thunder-monetize.com, 6025417180, RESELLER
+ardenodemedia.com, 161941, RESELLER
+lijit.com, 443291, RESELLER, fafdf38b16bf6b2b
+lijit.com, 481366, RESELLER, fafdf38b16bf6b2b
+rubiconproject.com, 26250, RESELLER, 0bfd66d529a55807
+tubia.com, 40104, RESELLER
+video.unrulymedia.com, 498216989, RESELLER
+zetaglobal.net, 525, RESELLER
+onetag.com, 8305cc299686700, RESELLER
+adspend.ru, 3584173, DIRECT
+ozon.ru, 3584173, DIRECT
+pangleglobal.com, 55191, RESELLER, 7998eac5087f6110
+ushareit.com, 3584173, DIRECT
+onetag.com, 7b7048166127e4c, DIRECT
+onetag.com, 7b7048166127e4c-ob, DIRECT
+rubiconproject.com, 22884, RESELLER, 0bfd66d529a55807
+uis.mobfox.com, 2158, DIRECT, 5529a3d1f59865be
