@@ -2256,3 +2256,58 @@ onetag.com, 7b7048166127e4c, DIRECT
 onetag.com, 7b7048166127e4c-ob, DIRECT
 rubiconproject.com, 22884, RESELLER, 0bfd66d529a55807
 uis.mobfox.com, 2158, DIRECT, 5529a3d1f59865be
+bidease.com, bidease_seller_20, RESELLER
+lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
+smaato.com, 1100055750, RESELLER, 07bcf65f187117b4
+tredio.io, 357a6fdf7642bf815a88822c447d9dc433546, RESELLER
+video.unrulymedia.com, 819070080, RESELLER
+aceex.io, 1697, RESELLER, b1cf3c874d5c6682
+advertising.com, 23089, RESELLER
+advertising.com, 28605, RESELLER
+alpecs.com, 2448028124, RESELLER
+appaspire.com, 97517, RESELLER
+appnexus.com, 12637, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9382, RESELLER, f5ab79cb980f11d1
+bidease.com, bidease_seller_34, RESELLER
+bold-win.com, 807, RESELLER, 71746737d0bab951
+contextweb.com, 563195, RESELLER, 89ff185a4c4e857c
+criteo.com, b-071797, RESELLER, 9fac4a4a87c2a44f
+flat-ads.com, 2196901, RESELLER
+growintech.co, 101696, RESELLER, 9d8dfe5c6b00fb37
+lijit.com, 500520, RESELLER, fafdf38b16bf6b2b
+loopme.com, 9718, RESELLER, 6c8d5f95897a5a3b
+openx.com, 543878511, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 160993, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161058, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161335, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 13918, RESELLER, 0bfd66d529a55807
+smaato.com, 1100056110, RESELLER, 07bcf65f187117b4
+synacor.com, 82171, RESELLER, e108f11b2cdf7d5b
+themediagrid.com, sh96gf, RESELLER, 35d5010d7789b49d
+video.unrulymedia.com, 949394431, RESELLER
+yahoo.com, 59244, RESELLER, e1a5b5b6e3255540
+growintech.co, 2723d092b63885e0d7c260cc007e8b9d2393g, RESELLER, 9d8dfe5c6b00fb37
+opera.com, pub4366595624320, RESELLER, 55a0c5fd61378de3
+admanmedia.com, 2027, RESELLER
+bidease.com, bidease_seller_8, RESELLER
+copper6.com, 749492, RESELLER
+freewheel.tv, 1306927, RESELLER, 74e8e47458f74754
+getmediamx.com, 1229559, RESELLER
+onlinemediasolutions.com, 29559, RESELLER
+visiblemeasures.com, 1078, RESELLER
+adform.com, 2688, RESELLER, 9f5210a2f0999e32
+adview.com, 04154661, RESELLER, 1b2cc038a11ea319
+bidease.com, bidease_seller_28, RESELLER
+criteo.com, b-072394, RESELLER, 9fac4a4a87c2a44f
+freewheel.tv, 1604697, RESELLER, 74e8e47458f74754
+freewheel.tv, 1604716, RESELLER, 74e8e47458f74754
+lunamedia.io, vaiwtx4prucygk6uuevk13ywmjolbi5yun, RESELLER, 524ecb396915caaf
+pubmatic.com, 163875, RESELLER, 5d62403b186f2ace
+rhebus.works, 1976779507, RESELLER
+thunder-monetize.com, 4977054380, RESELLER
+xapads.com, 132485, RESELLER
+yieldlab.net, 15465081, RESELLER
+ssp.e-volution.ai, ajxf6r131a9m6catvk, RESELLER
+foxpush.com, 11233319, DIRECT
+google.com, pub-8113799588685394, RESELLER, f08c47fec0942fa0
+google.com, pub-8541583196492976, RESELLER, f08c47fec0942fa0
