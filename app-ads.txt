@@ -2546,3 +2546,24 @@ triplelift.com, 14127, RESELLER, 6c33edb13117fd86
 triplelift.com, 14127-eb, RESELLER, 6c33edb13117fd86
 webeyemob.com, 80067, RESELLER
 zmaticoo.com, 114122, RESELLER
+mintegral.com, your publisherid, DIRECT, 0aeed750c80d6423
+krushmedia.com, ajxf6r585a9m6catvk, RESELLER
+lijit.com, 512908, RESELLER, fafdf38b16bf6b2b
+olaex.biz, 100008, RESELLER
+pubnative.net, 1009046, RESELLER, d641df8625486a7b
+rubiconproject.com, 26310, RESELLER, 0bfd66d529a55807
+webeyemob.com, 80010, RESELLER
+152media.info, 152m890, RESELLER
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+hindsightsolutions.net, 323-b5850, DIRECT, 20e30b2ae1f670f2
+improvedigital.com, 2417, RESELLER
+improvedigital.com, 2424, RESELLER
+lemmatechnologies.com, 942, RESELLER, 7829010c5bebd1fb
+pubmatic.com, 162458, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4941, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4941-ob, RESELLER, 060d053dcf45cbf3
+toponad.com, 1660506186838c, DIRECT, 1d49fe424a1a456d
+video.unrulymedia.com, 124775993, RESELLER
+apg.digital, 27570864242, DIRECT, 79540da20c07237e
+hyprmx.com, 27570864242, DIRECT, 79540da20c07237e
+jungroup.com, 27570864242, DIRECT, 79540da20c07237e
