@@ -2806,3 +2806,4 @@ ogury.com, 432e59bf-cea1-4835-909f-ce67b46743c4, DIRECT
 pubmatic.com, 163238, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 25198, RESELLER, 0bfd66d529a55807
 smartadserver.com, 4537, RESELLER, 060d053dcf45cbf3
+openx.com, 559798512, RESELLER, 6a698e2ec38604c6
