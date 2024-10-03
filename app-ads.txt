@@ -3208,3 +3208,63 @@ sabio.us, 100125, RESELLER, 96ed93aaa9795702
 smartadserver.com, 4342, RESELLER, 060d053dcf45cbf3
 trustedstack.com, TS677PGY3, RESELLER
 yieldmo.com, 3377199372461613093, RESELLER, 6a92c77cfc3d2258
+facebook.com, 1210467953459280, DIRECT, c3e20eee3f780d68
+equativ.com, 5026, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 5026, RESELLER, 060d053dcf45cbf3
+smartclip.net, 13627, RESELLER
+sonobi.com, d2b13d1c36, RESELLER, d1a215d9eb5aee9e
+app-stock.com, 343264, RESELLER, ed8c126ea5971415
+google.com, pub-2923085774557613, RESELLER, f08c47fec0942fa0
+hoopladigital.co.uk, 5046738227, RESELLER
+pubmatic.com, 165438, RESELLER, 5d62403b186f2ace
+e-planning.net, 608359bb987625b2, RESELLER, c1ba615865ed87b2
+inmobi.com, c85bf9db09b548a180c9fa6d204323f6, RESELLER, 83e75a7ae333ca9d
+lijit.com, 511365, RESELLER, fafdf38b16bf6b2b
+magicmedia.ae, 6f828808, RESELLER
+peak226.com, 12904, RESELLER
+sabio.us, 100071, RESELLER, 96ed93aaa9795702
+tredio.io, 357a6fdf7642bf815a88822c447d9dc432901, RESELLER
+waardex.com, 99236, RESELLER
+adelement.com, 48222, RESELLER
+contextweb.com, 563255, RESELLER, 89ff185a4c4e857c
+ignitemediatech.com, pub_11117, RESELLER
+instreamatic.com, 121, RESELLER
+lemmatechnologies.com, 1543, RESELLER, 7829010c5bebd1fb
+monetixads.com, mix-pub-3646219662, RESELLER, uufps1dh5stc6euk
+onetag.com, 8dac5efb6c952da, RESELLER
+outbrain.com, 0083474e9e7092cfca87a3deb5c92450b6, RESELLER
+pubmatic.com, 165157, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165207, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165239, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165307, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165340, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 24084, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25100, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26608, RESELLER, 0bfd66d529a55807
+smartadserver.com, 5015, RESELLER, 060d053dcf45cbf3
+smartyads.com, 300112, RESELLER, fd2bde0ff2e62c5d
+152media.info, 152M968, RESELLER
+adeclipse.io, 531196526, DIRECT
+adeclipse.io, 531196527, DIRECT
+adform.com, 3215, RESELLER, 9f5210a2f0999e32
+adingo.jp, 30896, RESELLER
+admatic.de, ade-pub-6537379909, DIRECT, uufps1dh5stc6euk
+axis-marketplace.com, 120, DIRECT
+bidinfluence.com, 500561, DIRECT
+bidscube.com, 4000245, DIRECT, 6ecc87a1e0269657
+conversantmedia.com, 100275, DIRECT, 03113cd04947736d
+criteo.com, B-060738, DIRECT, 9fac4a4a87c2a44f
+crystall.io, 297123, DIRECT
+decenterads.com, 300635, DIRECT
+google.com, pub-6254331789601537, RESELLER, f08c47fec0942fa0
+google.com, pub-6716225838534735, RESELLER, f08c47fec0942fa0
+gothamads.com, 200139, DIRECT, d9c86e5dec870222
+onetag.com, 8c85507deac979a, DIRECT
+onetag.com, 8cc07948e3ea93c, DIRECT
+pubmatic.com, 164927, RESELLER, 5d62403b186f2ace
+rtbhouse.com, 0JBassv1FjnNsC26dGmc, DIRECT
+rubiconproject.com, 12398, RESELLER, 0bfd66d529a55807
+smartadserver.com, 4938-OB, RESELLER, 060d053dcf45cbf3
+thegermanemedia.com, 446, DIRECT, 6716225838534735
+triplelift.com, 13654, RESELLER, 6c33edb13117fd86
+qt.io, 9637, DIRECT
