@@ -3608,3 +3608,67 @@ rubiconproject.com, 26980, DIRECT, 0bfd66d529a55807
 tubia.com, 40113, DIRECT
 tubia.com, 40114, RESELLER
 xandr.com, 15507, RESELLER, f5ab79cb980f11d1
+cas.ai, 922e6092, DIRECT
+lijit.com, 530498, RESELLER, fafdf38b16bf6b2b
+opera.com, pub11079554715136, DIRECT, 55a0c5fd61378de3
+showheroes.com, 6031, RESELLER
+smartclip.net, 27985, RESELLER
+openx.com, 561436793, RESELLER, 6a698e2ec38604c6
+152media.info, 152M398, RESELLER
+adform.com, 3035, DIRECT, 9f5210a2f0999e32
+adinify.com, v373678, DIRECT
+adipolo.com, 22844400545, DIRECT
+adipolosolutions.com, 22844400545, DIRECT
+aol.com, 57992, RESELLER, e1a5b5b6e3255540
+appnexus.com, 16696, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7582, RESELLER, f5ab79cb980f11d1
+conversantmedia.com, 42037, DIRECT, 03113cd04947736d
+conversantmedia.com, 100659, RESELLER, 03113cd04947736d
+conversantmedia.com, 100660, RESELLER, 03113cd04947736d
+conversantmedia.com, 100661, RESELLER, 03113cd04947736d
+conversantmedia.com, 100662, RESELLER, 03113cd04947736d
+conversantmedia.com, 100663, RESELLER, 03113cd04947736d
+conversantmedia.com, 100670, RESELLER, 03113cd04947736d
+conversantmedia.com, 100671, RESELLER, 03113cd04947736d
+conversantmedia.com, 100672, RESELLER, 03113cd04947736d
+conversantmedia.com, 100677, RESELLER, 03113cd04947736d
+conversantmedia.com, 100706, RESELLER, 03113cd04947736d
+conversantmedia.com, 100713, RESELLER, 03113cd04947736d
+d-sail.com, ds0453, DIRECT
+e-planning.net, 29459e615aaa9065, DIRECT, c1ba615865ed87b2
+freewheel.tv, 1608199, RESELLER, 74e8e47458f74754
+freewheel.tv, 1608322, RESELLER, 74e8e47458f74754
+freewheel.tv, 1608323, RESELLER, 74e8e47458f74754
+google.com, pub-2205121062140812, RESELLER, f08c47fec0942fa0
+onetag.com, 61d88450bdb25bc, DIRECT
+onetag.com, 61d88450bdb25bc-OB, DIRECT
+onetag.com, 758e0f1a8f05074, RESELLER
+opamarketplace.com, 22844400545, DIRECT
+openx.com, 540406323, DIRECT, 6a698e2ec38604c6
+openx.com, 540406323, RESELLER, 6a698e2ec38604c6
+openx.com, 545702544, RESELLER, 6a698e2ec38604c6
+pixfuture.com, 9398, DIRECT
+pmbmonetize.com, 22844400545, DIRECT
+pubmatic.com, 158127, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159775, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160628, RESELLER, 5d62403b186f2ace
+pubmatic.com, 164928, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 15268, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 23564, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 11106, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 23564, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 23566, RESELLER, 0bfd66d529a55807
+sharethrough.com, 62beb9db, DIRECT, d53b998a7bd4ecd2
+singularads.com, 895023, RESELLER
+smartadserver.com, 4938, RESELLER, 060d053dcf45cbf3
+smartyads.com, 20133, DIRECT, fd2bde0ff2e62c5d
+snack-media.com, SNM_4199, DIRECT
+sonobi.com, 8efb591506, DIRECT, d1a215d9eb5aee9e
+themediagrid.com, DI2GUZ, DIRECT, 35d5010d7789b49d
+themediagrid.com, DJQVCM, DIRECT, 35d5010d7789b49d
+themediagrid.com, QDC97I, DIRECT, 35d5010d7789b49d
+triplelift.com, 7613, RESELLER, 6c33edb13117fd86
+video.unrulymedia.com, 446948340, DIRECT
+video.unrulymedia.com, 664864669, RESELLER
+xandr.com, 16696, RESELLER, f5ab79cb980f11d1
+yahoo.com, 57992, RESELLER, e1a5b5b6e3255540
