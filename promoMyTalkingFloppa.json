@@ -1,0 +1,14 @@
+{
+    "promocodes":[
+        {
+            "code": "2G2H8RTYUB",
+            "coins": 5000,
+            "experience": 500
+        },
+        {
+            "code": "6GBHCVTYUB",
+            "coins": 2500,
+            "experience": 500
+        }
+    ]
+}
