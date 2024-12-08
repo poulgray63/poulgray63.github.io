@@ -14,6 +14,11 @@
             "code": "FLOPPA2024",
             "coins": 999,
             "experience": 100
+        },
+        {
+            "code": "FLOPPA2025",
+            "coins": 499,
+            "experience": 100
         }
     ]
 }
