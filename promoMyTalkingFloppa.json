@@ -9,6 +9,11 @@
             "code": "6GBHCVTYUB",
             "coins": 2500,
             "experience": 500
+        },
+        {
+            "code": "FLOPPA2024",
+            "coins": 999,
+            "experience": 100
         }
     ]
 }
