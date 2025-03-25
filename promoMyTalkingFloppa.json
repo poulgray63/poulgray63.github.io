@@ -19,6 +19,11 @@
             "code": "SPEC1ALFORY0SEL1NE",
             "coins": 9999,
             "experience": 1500
+        },
+        {
+            "code": "HACKERRR",
+            "coins": 999,
+            "experience": 300
         }
     ]
 }
