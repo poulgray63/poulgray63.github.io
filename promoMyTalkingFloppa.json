@@ -24,6 +24,11 @@
             "code": "HACKERRR",
             "coins": 999,
             "experience": 300
+        },
+        {
+            "code": "PELMENI777",
+            "coins": 777,
+            "experience": 300
         }
     ]
 }
