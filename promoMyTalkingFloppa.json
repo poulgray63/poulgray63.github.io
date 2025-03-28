@@ -29,6 +29,11 @@
             "code": "PELMENI777",
             "coins": 777,
             "experience": 300
+        },
+        {
+            "code": "MATVEJ",
+            "coins": 300,
+            "experience": 100
         }
     ]
 }
