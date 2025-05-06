@@ -34,6 +34,11 @@
             "code": "MATVEJ",
             "coins": 300,
             "experience": 100
+        },
+        {
+            "code": "SECRET777",
+            "coins": 777,
+            "experience": 777
         }
     ]
 }
